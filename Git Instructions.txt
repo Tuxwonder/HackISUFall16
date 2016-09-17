@@ -1,0 +1,6 @@
+cd C:\Users\ffrit\Desktop\HackISUFall16
+git add .
+git status
+git commit -m "message"
+git pull
+git push
