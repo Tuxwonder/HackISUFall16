@@ -5,9 +5,9 @@ StillAlive[0] = {3,  2,   1,  1,  2,   0,  3,   2,   1,  1,  2,   1,  2,  0,   0
                  /*BUT*/
                  0,   1,   2,  3,  2,  1,  1,  0,  1,  0,  0,  0,  0,   1,   2,  3,}
 //Frequency
-StillAlive[1]=  {G4, Gb4, E4, E4, Gb4, LA4, G4, Gb4, E4, E4, Gb4, D4, E4, LA4, LA4, E4, Gb4, G4, E4, C4, D4, E4, LA4, LA4, Gb4,
-                 G4, Gb4, E4, E4, Gb4, LA4, G4, Gb4, E4, E4, Gb4, D4, E4, LA4, E4, Gb4, G4, E4, Db4, D4, E4, LA4, D4, E4, F, E4, D4, C4,
-                 LA4, Bb4, C4, F4, E4, D4, D4, C4, D4, C4, C4, C4, LA4, Bb4, C4, }
+StillAlive[1]=  {_G4, _Gb4, _E4, _E4, _Gb4, _LA4, _G4, _Gb4, _E4, _E4, _Gb4, _D4, _E4, _LA4, _LA4, _E4, _Gb4, _G4, _E4, _C4, _D4, _E4, _LA4, _LA4, _Gb4,
+                 _G4, _Gb4, _E4, _E4, _Gb4, _LA4, _G4, _Gb4, _E4, _E4, _Gb4, _D4, _E4, _LA4, _E4, _Gb4, _G4, _E4, _Db4, _D4, _E4, _LA4, _D4, _E4, _F4, _E4, _D4, _C4,
+                 _LA4, _Bb4, _C4, _F4, _E4, _D4, _D4, _C4, _D4, _C4, _C4, _C4, _LA4, _Bb4, _C4, }
 //Wait
 StillAlive[2]=  {0,  0,   0,  0,  10,  0,   0,  0,   0,  1,  2,   1,  0,  7,   0,   1,  0,   2,  0,  1,  2,  1,  0,   1,   10,
                  0,  0,   0,  0,  10,  0,   0,  0,   0,  1,  2,   1,  0,  7,   1,  0,   2,  1,  2,   0,  1,  0,   0,  0,  0,   0,  0,  2,
